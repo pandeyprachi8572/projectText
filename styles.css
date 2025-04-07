@@ -79,7 +79,7 @@ body {
   border: none;
   color: rgb(0, 0, 0);
 }
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .nav-links {
     display: none;
     flex-direction: column;
@@ -189,7 +189,7 @@ body {
   font-size: 20px;
   cursor: pointer;
 }
-@media (max-width: 768px) {
+@media (max-width: 1024) {
   
   .arrows{
     display: none;
