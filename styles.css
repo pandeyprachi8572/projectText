@@ -191,10 +191,11 @@ body {
 }
 @media (max-width: 1024) {
   
-  .arrows{
+  .profile .profile img .profile-text .profile-text strong {
+ 
     display: none;
   }
-  .profile{
+  .arrows .arrows button{
     display: none;
   }
 }
